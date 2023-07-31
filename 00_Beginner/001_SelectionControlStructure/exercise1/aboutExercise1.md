@@ -1,0 +1,1 @@
+Écrire une fonction qui détermine si 3 nombres quelconques passés en paramètre sont tous différents. La fonction retourne trois messages possibles : « tous différents », « deux égaux », « trois égaux ».
